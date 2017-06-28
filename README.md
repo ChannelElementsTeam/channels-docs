@@ -1,4 +1,6 @@
 # channels-docs
-Channel Elements Documentation
 
-This repository contains only documentation which is all stored in the wiki.
+This project contains all of the documentation describing Channel Elements in its wiki.
+
+[Full Documentation](./wiki)
+
